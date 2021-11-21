@@ -1,3 +1,7 @@
+# Rosalind Solutions
+
+This repository contains solutions to the following programming exercises from http://rosalind.info done during a Bioinformatics course in 2019/2020. This is throw-away code that is only supposed to correctly get the job done.
+
 - [Counting DNA Nucleotides](problems/dna.py) [[url]](http://rosalind.info/problems/dna)
 - [Transcribing DNA into RNA](problems/rna.py) [[url]](http://rosalind.info/problems/rna)
 - [Complementing a Strand of DNA](problems/revc.py) [[url]](http://rosalind.info/problems/revc)
