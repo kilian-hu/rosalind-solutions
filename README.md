@@ -19,7 +19,6 @@ This repository contains solutions to the following programming exercises from h
 - [Global Alignment with Constant Gap Penalty](problems/gcon.py) [[url]](http://rosalind.info/problems/gcon)
 - [Global Alignment with Scoring Matrix and Affine Gap Penalty](problems/gaff.py) [[url]](http://rosalind.info/problems/gaff)
 - [Global Alignment with Scoring Matrix](problems/glob.py) [[url]](http://rosalind.info/problems/glob)
-- [Global Multiple Alignment](problems/clus.py) [[url]](http://rosalind.info/problems/clus)
 - [Implement UPGMA](problems/ba7d.py) [[url]](http://rosalind.info/problems/ba7d)
 - [Inferring mRNA from Protein](problems/mrna.py) [[url]](http://rosalind.info/problems/mrna)
 - [Local Alignment with Affine Gap Penalty](problems/laff.py) [[url]](http://rosalind.info/problems/laff)
